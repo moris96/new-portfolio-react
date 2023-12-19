@@ -49,6 +49,18 @@
     display: flex;
 }
 
+/* fix this to make it appear above "Frontend" word!!! */
+.section-title1 {
+    color: var(--heading-color);
+    font-size: 21px;
+    text-align: right;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    display: flex;
+    align-items: flex-start;
+}
+
 /* .main-section-img > img {
     width: 80%;
     height: 80%;

@@ -6,7 +6,7 @@ const Main = () => {
     <section id='mainSection' className='main-section'>
         <div className='main-section-content-box'>
             <div className='main-section-content'>
-                <p className='section-title'>Hi, I'm Moris Khoudari</p>
+                <p className='section-title1'>Hi, I'm Moris Khoudari</p>
                 <h1 className='main-section-title'>
                     <span className='main-section-title-color'>Frontend</span>{" "}
                     <br/>
