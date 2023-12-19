@@ -5,6 +5,7 @@ const All = () => {
   return (
     <>
         <Main/>
+        
     </>
   );
 };

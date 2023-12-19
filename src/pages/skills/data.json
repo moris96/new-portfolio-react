@@ -1,0 +1,10 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "../images/product-chain-1.png",
+            "title": "Frontend",
+            "description": "Using markup languages like HTML and frameworks like React to create user-friendly websites & optimizing applications for maximum speeds. (This website was made in React)"
+        }
+    ]
+}
