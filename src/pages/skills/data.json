@@ -2,9 +2,27 @@
     "skills": [
         {
             "id": "1",
-            "src": "../images/product-chain-1.png",
+            "src": "../images/frontend-logo.png",
             "title": "Frontend",
             "description": "Using markup languages like HTML and frameworks like React to create user-friendly websites & optimizing applications for maximum speeds. (This website was made in React)"
+        },
+        {
+            "id": "2",
+            "src": "../images/backend-logo.png",
+            "title": "Backend",
+            "description": "Using express.js, Flask, and Django as well as SQL to build databases and servers, and maintain website authorization"
+        },
+        {
+            "id": "3",
+            "src": "../images/game-dev.png",
+            "title": "Game Development",
+            "description": "Using popular game engines like Unity and Unreal Engine to create high-quality 2D & 3D games"
+        },
+        {
+            "id": "4",
+            "src": "../images/webflow.png",
+            "title": "Webflow Development",
+            "description": "Building website structure, designing the looks & feel of websites"
         }
     ]
 }
