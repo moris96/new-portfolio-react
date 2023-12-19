@@ -1,9 +1,9 @@
-
+import Main from "./pages/Main/Main";
 
 function App() {
   return (
     <div className="App">
-      <h1>New Portfolio</h1>
+      <Main/>
     </div>
   );
 }
