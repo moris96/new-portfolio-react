@@ -12,7 +12,7 @@ const Main = () => {
                     <br/>
                     Developer
                 </h1>
-                <p className='main-section-description'>I am a Frontend Developer who also has strong backend and game devoloping skills. I improve the workflow of my teams with my strong technical and leadership skills, and I am able to keep cool under pressure.<br/>My goal is to expand my knowledge and understanding of software engineering by learning more skills to add to my arsenal of technical skills, as well as helping others improve and making a positive impact on the world.</p>
+                {/* <p className='main-section-description'>I am a Frontend Developer who also has strong backend and game devoloping skills. I improve the workflow of my teams with my strong technical and leadership skills, and I am able to keep cool under pressure.<br/>My goal is to expand my knowledge and understanding of software engineering by learning more skills to add to my arsenal of technical skills, as well as helping others improve and making a positive impact on the world.</p> */}
             </div>
             <button className='btn btn-primary'>Get In Touch</button>
         </div>

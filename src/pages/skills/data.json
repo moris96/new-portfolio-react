@@ -4,7 +4,7 @@
             "id": "1",
             "src": "../images/frontend-logo.png",
             "title": "Frontend",
-            "description": "Using markup languages like HTML and frameworks like React to create user-friendly websites & optimizing applications for maximum speeds. (This website was made in React)"
+            "description": "Using markup languages like HTML and frameworks like React to create user-friendly websites & optimizing applications for maximum speeds. (This portfolio-website was made in React)"
         },
         {
             "id": "2",
@@ -21,7 +21,7 @@
         {
             "id": "4",
             "src": "../images/webflow.png",
-            "title": "Webflow Development",
+            "title": "Web Development",
             "description": "Building website structure, designing the looks & feel of websites"
         }
     ]

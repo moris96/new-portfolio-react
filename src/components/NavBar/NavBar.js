@@ -51,11 +51,17 @@ const NavBar = () => {
         </a>
         <div className={`navbar-items ${navActive ? "active" : ""}`}>
             <ul>
+              {/* home */}
                 <li>
                     <Link onClick={closeMenu} activeClass='navbar-active-content' spy={true} smooth={true} offset={-70} duration={500} to='mainSection' className='navbar-content'>Home</Link>
                 </li>
+                {/* skills */}
                 <li>
                     <Link onClick={closeMenu} activeClass='navbar-active-content' spy={true} smooth={true} offset={-70} duration={500} to='mySkills' className='navbar-content'>Skills</Link>
+                </li>
+                {/* about me */}
+                <li>
+                    <Link onClick={closeMenu} activeClass='navbar-active-content' spy={true} smooth={true} offset={-70} duration={500} to='aboutMe' className='navbar-content'>About Me</Link>
                 </li>
             </ul>
         </div>

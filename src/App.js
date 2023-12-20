@@ -2,6 +2,7 @@
 
 import Main from "./pages/Main/Main";
 import Skills from "./pages/skills/Skills";
+import AboutMe from "./pages/aboutMe/AboutMe";
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import NavBar from "./components/NavBar/NavBar";
@@ -20,6 +21,7 @@ function App() {
         </div>
       </Router>
       <Skills/>
+      <AboutMe/>
     </div>
   );
 };
