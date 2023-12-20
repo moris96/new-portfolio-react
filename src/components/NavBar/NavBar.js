@@ -55,13 +55,17 @@ const NavBar = () => {
                 <li>
                     <Link onClick={closeMenu} activeClass='navbar-active-content' spy={true} smooth={true} offset={-70} duration={500} to='mainSection' className='navbar-content'>Home</Link>
                 </li>
+              {/* about me */}
+                <li>
+                  <Link onClick={closeMenu} activeClass='navbar-active-content' spy={true} smooth={true} offset={-70} duration={500} to='aboutMe' className='navbar-content'>About Me</Link>
+                </li>
                 {/* skills */}
                 <li>
                     <Link onClick={closeMenu} activeClass='navbar-active-content' spy={true} smooth={true} offset={-70} duration={500} to='mySkills' className='navbar-content'>Skills</Link>
                 </li>
-                {/* about me */}
+                {/* portfolio */}
                 <li>
-                    <Link onClick={closeMenu} activeClass='navbar-active-content' spy={true} smooth={true} offset={-70} duration={500} to='aboutMe' className='navbar-content'>About Me</Link>
+                    <Link onClick={closeMenu} activeClass='navbar-active-content' spy={true} smooth={true} offset={-70} duration={500} to='myPortfolio' className='navbar-content'>Projects</Link>
                 </li>
             </ul>
         </div>

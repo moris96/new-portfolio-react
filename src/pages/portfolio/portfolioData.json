@@ -1,0 +1,32 @@
+{
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "../images/project1.png",
+            "title": "Pricing Plan",
+            "description": "Pricing plan website made in React",
+            "sauce": "https://react-pricing-plan.netlify.app/"
+        },
+        {
+            "id": "2",
+            "src": "../images/project2.png",
+            "title": "URL Shortener",
+            "description": "URL shortener website made in React",
+            "sauce": "https://react-url-shortify.netlify.app/"
+        },
+        {
+            "id": "3",
+            "src": "../images/project3.png",
+            "title": "Pokedex",
+            "description": "Pokedex website made in React using the Pokemon API",
+            "sauce": "https://pokedex-reactjs-app.netlify.app/"
+        },
+        {
+            "id": "4",
+            "src": "../images/project4.png",
+            "title": "Pokemon Game!",
+            "description": "Pokemon clone made in vanilla JavaScript",
+            "sauce": "https://poke-clone.netlify.app/"
+        }
+    ]
+}

@@ -15,7 +15,7 @@ const AboutMe = () => {
             </div>
         </div>
     </section>
-  )
-}
+  );
+};
 
 export default AboutMe
