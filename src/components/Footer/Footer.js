@@ -1,14 +1,10 @@
 import React from 'react';
 import './Footer.css';
 
+
 const Footer = () => {
   return (
     <footer id='myFooter' className='footer-container'>
-        <div className='footer-link-container'>
-            <div>
-            <img src='../images/logo.png' alt='logo' className='nav-img' />
-            </div>
-        </div>
         <hr className='divider' />
         <div className='footer-content-container'>
             <p className='footer-content'>Made with 💖 by Moris</p>

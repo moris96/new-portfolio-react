@@ -8,13 +8,6 @@
     align-self: stretch;
 }
 
-.footer-link-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    align-self: stretch;
-}
-
 .footer-social-icon > ul {
     list-style: none;
     display: flex;
