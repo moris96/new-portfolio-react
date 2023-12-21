@@ -71,6 +71,10 @@ const NavBar = () => {
                 <li>
                     <Link onClick={closeMenu} activeClass='navbar-active-content' spy={true} smooth={true} offset={-70} duration={500} to='contactMe' className='navbar-content'>Contact Me</Link>
                 </li>
+                {/* footer */}
+                <li>
+                    <Link onClick={closeMenu} activeClass='navbar-active-content' spy={true} smooth={true} offset={-70} duration={500} to='myFooter' className='navbar-content'>Socials</Link>
+                </li>
             </ul>
         </div>
     </nav>
