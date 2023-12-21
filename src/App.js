@@ -4,6 +4,7 @@ import Main from "./pages/Main/Main";
 import Skills from "./pages/skills/Skills";
 import AboutMe from "./pages/aboutMe/AboutMe";
 import Portfolio from "./pages/portfolio/Portfolio";
+import Contact from "./pages/contact/Contact";
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import NavBar from "./components/NavBar/NavBar";
@@ -24,6 +25,7 @@ function App() {
       <AboutMe/>
       <Skills/>
       <Portfolio/>
+      <Contact/>
     </div>
   );
 };
